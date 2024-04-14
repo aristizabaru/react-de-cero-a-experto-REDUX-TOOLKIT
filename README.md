@@ -2,7 +2,7 @@
 
 ## Acerca de
 
-Este es un repositorio personal para ejecución del proyecto del curso **React: De cero a experto (HEROES SPA)** de **Fernando Herrera** en la plataforma Udemy. Para acceder al curso completo puede hacer [clic aquí](https://www.udemy.com/course/react-cero-experto/)
+Este es un repositorio personal para ejecución del proyecto del curso **React: De cero a experto (REDUX TOOLKIT)** de **Fernando Herrera** en la plataforma Udemy. Para acceder al curso completo puede hacer [clic aquí](https://www.udemy.com/course/react-cero-experto/)
 
 El proyecto desarrollado a continuación se explora conceptos de Redux usando [Redux Toolkit](https://redux-toolkit.js.org/)
 
